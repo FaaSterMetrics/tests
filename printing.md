@@ -1,4 +1,4 @@
-## WIP timing of printing on various platforms
+## Timing of printing on various platforms
 
 This tests how long various combinations of "numbers of lines printed" with "characters per line" take.  
 It takes 20 samples for each test and selects the one with the least execution time.
